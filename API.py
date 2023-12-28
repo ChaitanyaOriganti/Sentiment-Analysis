@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 26 13:33:10 2020
-
-@author: Nikhil K
-"""
-
 import pickle
 from nltk.tokenize import TweetTokenizer
 from nltk.stem.wordnet import WordNetLemmatizer
