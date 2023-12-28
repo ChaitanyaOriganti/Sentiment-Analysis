@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 25 16:58:19 2020
-
-@author: Nikhil K
-"""
-
 import pandas as pd
 import nltk
 nltk.download('twitter_samples')
